@@ -16,6 +16,9 @@
 * http://www.importnew.com/19612.html
 * http://blog.csdn.net/u011080472/article/details/51337422
 * http://ifeve.com/java-memory-model-6/
+* http://www.infoq.com/cn/articles/java-memory-model-1
+* https://www.jianshu.com/p/d3fda02d4cae
+* http://blog.csdn.net/javazejian/article/details/72772461
 
 4. 多线程
 * https://www.cnblogs.com/wxd0108/p/5479442.html
