@@ -15,3 +15,4 @@
 * http://www.hao124.net/article/49
 * http://www.importnew.com/19612.html
 * http://blog.csdn.net/u011080472/article/details/51337422
+* http://ifeve.com/java-memory-model-6/
