@@ -44,3 +44,7 @@
 * http://www.importnew.com/23564.html
 * http://www.cnblogs.com/ITtangtang/p/3974531.html
 * https://www.cnblogs.com/xiaomoxian/p/5199601.html
+
+7. lambda
+* https://segmentfault.com/a/1190000009186509
+
